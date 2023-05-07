@@ -1,6 +1,6 @@
 {
-  "homepage": "https://nadim-chowdhury.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://nadim-chowdhury.github.io/portfolio-rjs",
+  "name": "portfolio-rjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
